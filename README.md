@@ -6,3 +6,4 @@ S2DS Virtual October 2019 Participants:
 
 -- Darine Abdelahad
 -- 
+--Ellen Kendrick
